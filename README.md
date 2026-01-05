@@ -11,3 +11,11 @@ In *Code*, choose *Create new Codespace".
 ## Jupyter Kernel
 
 This project uses [Rapaio](https://github.com/padreati/rapaio-jupyter-kernel) as Jupyter Kernel.
+
+
+# Credit:
+* Susie
+* Landry
+
+
+
